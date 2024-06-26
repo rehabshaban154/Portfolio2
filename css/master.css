@@ -161,7 +161,7 @@ transform: scale(1.1);
            display: none !important;
         }
         .example .examp .back{
-        left: 26px !important; 
+        left: 6px !important; 
         top: 25px !important;
         }
 
@@ -171,7 +171,7 @@ transform: scale(1.1);
     }
 @media (max-width:767px) {
     .example .examp p{
-        width:389px !important;
+        width:343px !important;
         height: auto !important;
     }
     .example .examp .dis:last-of-type{
