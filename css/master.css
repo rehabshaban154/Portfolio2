@@ -65,6 +65,11 @@
         margin-left: 0 !important;
     }
 }
+@media (max-width:767px) {
+    .contact form .name input{
+        width: 170px !important;
+    }
+}
 /* port section */
 .port img{
     width: 300px;
@@ -101,7 +106,7 @@
         margin-left: 0 !important;
     }
     .port .container{
-        margin-left: 55px !important;
+        margin-left: 28px !important;
     }
     .port .blog{
         display: none !important;
