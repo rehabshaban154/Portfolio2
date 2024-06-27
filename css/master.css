@@ -23,6 +23,16 @@
 .landing .media i:hover{
     transform: scale(1.1);
 }
+@media (max-width:992px) {
+    .landing img{
+display: none;
+    }
+}
+
+.landing .cv:hover{
+    cursor: pointer;
+    transform: translatex(10px);
+}
 
 /* about section */
 
@@ -63,6 +73,7 @@
     }
     .contact form{
         margin-left: 0 !important;
+        width: 349px !important;
     }
 }
 @media (max-width:767px) {
